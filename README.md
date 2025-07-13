@@ -1,4 +1,5 @@
 # A_Real_Mouse_Mouse
+https://cad.onshape.com/documents/89a440595dc51c5ae372007d/w/c944f5d9fd3fac0e6c0e6504/e/11f9e84672e7b79057687be0?renderMode=0&uiState=68739ac39a278a3e3281cea2
 "A Real Mouse Mouse" is a custom-designed computer mouse shell, specifically crafted to be compatible with the internal components of the Bambu Lab Mouse Kit. This design reimagines the traditional computer mouse with a playful and literal interpretation, giving it the whimsical appearance of an actual mouse, complete with a tail. 
 <img width="780" height="376" alt="image" src="https://github.com/user-attachments/assets/f159bcfe-0e8d-4ce2-a270-936660053b6d" />
 <img width="230" height="378" alt="image" src="https://github.com/user-attachments/assets/44c7dcee-12ca-46be-a4b6-f8caa71b23ab" />
